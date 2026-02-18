@@ -1,4 +1,6 @@
 # test
 test file
-**Hello** , this is THE *first poject* I try to write
+**Hello** , this is THE *first poject* I try to write\
+This is a foto from Santorini
+
 ![santorini](IMG-337fee7ddd35f539891c916bd7de5bf8-V.jpg)
